@@ -1,4 +1,5 @@
 # Team Members
 - shajid
-1. Atri Mazumder Arka
-minhaj ali Chowdhury
+- Atri Mazumder Arka
+- minhaj ali Chowdhury
+- Abdullah Al Munzir
